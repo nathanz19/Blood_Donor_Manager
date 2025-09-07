@@ -209,8 +209,8 @@ public class TransplantDriver {
                     "Creating new TransplantGraph object...");
             System.out.println("Loading data from 'donors.txt'...");
             System.out.println("Loading data from 'recipients.txt'...");
-            graph = TransplantGraph.buildFromFiles("donors.txt",
-                    "recipients.txt");
+            graph = TransplantGraph.buildFromFiles("src/donors.txt",
+                    "src/recipients.txt");
         }
     }
 
