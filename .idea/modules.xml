@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hw7.iml" filepath="$PROJECT_DIR$/hw7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Blood_Donor_Manager.iml" filepath="$PROJECT_DIR$/Blood_Donor_Manager.iml" />
     </modules>
   </component>
 </project>
